@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CashRising</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_Home_fragment">Home</string>
+    <string name="hello_money_fragment">Money</string>
+    <string name="hello_settings_fragment">Setting</string>
+</resources>
